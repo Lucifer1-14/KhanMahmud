@@ -80,14 +80,14 @@ print  """
 \033[1;97m        ||     //    ||\\    //||
 \033[1;92m        ||   //      || \\  // ||
 \033[1;97m        || //        ||  \\//  ||
-\033[1;92m        || \\        ||        ||
-\033[1;97m        ||  \\       ||        ||
-\033[1;97m        ||   \\      ||        ||
+\033[1;92m        || \\\       ||        ||
+\033[1;97m        ||  \\\      ||        ||
+\033[1;97m        ||   \\\     ||        ||
                                                                
 
 """
 
-jalan("\033[1;97m•◈•───────•◈ Khan Mahmud||ItZ Not A Name,ItZ A Brand•◈•───────•◈•")  
+jalan("\033[1;97m•◈•──•◈ Khan Mahmud|ItZ Not A Name|ItZ A Brand•◈•──•◈•")  
 
 
 jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
@@ -102,7 +102,7 @@ jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")
 
 jalan("   \033[1;93m Welcome to Khan Mahmud Creations ")
 
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•──────────•◈•\033[1;96mKhan Mahmud\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "khan"
 CorrectPassword = "khan"
