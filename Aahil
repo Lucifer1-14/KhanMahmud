@@ -56,7 +56,7 @@ logo = """
 \033[1;96m         ____) | |_) |  __/  __/ (_| | |
 \033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
 \033[1;96m               | |                      
-\033[1;96m               |_|   Aahil Updated 0.3                   
+\033[1;96m               |_|   Khan Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -77,17 +77,17 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m        ___    ___   _   _ _____ _     
-\033[1;92m       / _ \  / _ \ | | | |_   _| | Updated✔ 
-\033[1;97m      / /_\ \/ /_\ \| |_| | | | | |    
-\033[1;92m      |  _  ||  _  ||  _  | | | | |    
-\033[1;97m      | | | || | | || | | |_| |_| |____
-\033[1;97m      \_| |_/\_| |_/\_| |_/\___/\_____/
+\033[1;97m        ||     //    ||\\    //||
+\033[1;92m        ||   //      || \\  // ||
+\033[1;97m        || //        ||  \\//  ||
+\033[1;92m        || \\        ||        ||
+\033[1;97m        ||  \\       ||        ||
+\033[1;97m        ||   \\      ||        ||
                                                                
 
 """
 
-jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
+jalan("\033[1;97m•◈•───────•◈ Khan Mahmud||ItZ Not A Name,ItZ A Brand•◈•───────•◈•")  
 
 
 jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
@@ -97,15 +97,15 @@ jalan("\033[1;96m•◈•  \___ \|  ___/|  __| |  __| | |  | || |  ")
 jalan("\033[1;96m•◈•  ____) | |    | |____| |____| |__| || |_ ")
 jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
  
-jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
+jalan("   \033[1;91m INDIAN USERS USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Aahil Creations ")
+jalan("   \033[1;93m Welcome to Khan Mahmud Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "khan"
+CorrectPassword = "khan"
 
 
 loop = 'true'
@@ -118,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.facebook.com/Khan.Mahmud.Official')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.facebook.com/Khan.Mahmud.Official')
 
 def login():
 	os.system('clear')
@@ -218,7 +218,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Aahil"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Khan Mahmud"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -323,10 +323,10 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
-	print "   \033[1;31;48m●💋══════════════════◄►══════════════════💋●"
+	print "   \033[1;31;48m●══════════════════◄►═════════════════●"
 
-	jalan('                    \033[1;97mAahil start cloning Wait...')
-	print  "  \033[1;36;48m ●💋══════════════════◄►══════════════════💋●" 
+	jalan('                    \033[1;97mKhan start cloning Wait...')
+	print  "  \033[1;36;48m ●══════════════════◄►═════════════════●" 
 
 	def main(arg):
 		global cekpoint,oks
